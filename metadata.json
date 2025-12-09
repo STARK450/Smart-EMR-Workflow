@@ -1,0 +1,5 @@
+{
+  "name": "HealSync EMR",
+  "description": "A smart EMR workflow assistant with built-in test automation simulation and AI-powered clinical support.",
+  "requestFramePermissions": []
+}
